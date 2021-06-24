@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(241, 202, 155);
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: crimson;
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 3rem;
+    color: firebrick;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+/********************Classes*******************/
+
+.div1{
+    float: left;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.div2{
+    float: right;
+    margin-right: 300px;
+    margin-top: 50px;
+}
+
+/*Footer Section*/
+
+.white-section{
+    color: firebrick;
+    margin-top: 480px;
+}
